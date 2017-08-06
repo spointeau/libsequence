@@ -32,7 +32,7 @@ put your cmake and mingw bin folders in your path, like below for windows <br />
 
 **c:\>** *cd path\to\libsequence*
 
-create a build folder in the libsequence directory
+create a build folder in the libsequence directory <br />
 **c:\path\to\libsequence>** *mkdir build* <br />
 **c:\path\to\libsequence>** *cd build* <br />
 
